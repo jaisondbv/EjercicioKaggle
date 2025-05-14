@@ -1,0 +1,506 @@
+  1  ls -lstr
+    2  mkdir joarevalog
+    3  ls -lstr
+    4  cd joarevalog
+    5  mkdir "joarevalog@academia.usbbog.edu.co"
+    6  ls -lstr
+    7  cd "joarevalog@academia.usbbog.edu.co"
+    8  git clone git@github.com:JaimeArevalo/Proyecto-ETL.git
+    9  ls -lstr
+   10  git clone https://github.com/JaimeArevalo/Proyecto-ETL.git
+   11  ls -lstr
+   12  cd Proyecto-ETL
+   13  sudo docker build -t proyecto-etl .
+   14  sudo docker run proyecto-etl
+   15  docker ps
+   16  sudo docker ps
+   17  sudo docker run -it proyecto-etl /bin/bash
+   18  sudo docker ps
+   19  docker ps
+   20  sudo docker ps -a
+   21  ls -lstr
+   22  cd data
+   23  ls -lstr
+   24  nano Dockerfile
+   25  cd output
+   26  ls -lstr
+   27  cd ..
+   28  cd input/
+   29  ls -lstr
+   30  cd ..
+   31  cd
+   32  ls -lstr
+   33  exit
+   34  mkdir befrancor
+   35  cd befrancor
+   36  git clone https://github.com/Brayanf22/ETL/blob/main/etl_package.zip
+   37  git clone https://github.com/Brayanf22/ETL/blob/main/etl_package.zip.git
+   38  git clone https://github.com/Brayanf22/ETLgit
+   39  mkdir jatovarp
+   40  cd jatovarp
+   41  git clone https://github.com/JATP9/Activity1.git
+   42  cd jatovarp
+   43  ls
+   44  docker build -t jatovarp
+   45  docker build -t jatovarp .
+   46  sudo docker build -t jatovarp .
+   47  ls
+   48  cd Activity1/
+   49  ls
+   50  cd clase/
+   51  ls
+   52  rm -r jatovarp
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  rm -r jatovarp
+   57  cd ..
+   58  rm -r jatovarp
+   59  ls
+   60  rm -r jatovarp/
+   61  ls
+   62  mkdir jatovarp
+   63  cd jatovarp
+   64  git clone https://github.com/JATP9/Dockerfile-actividad.git
+   65  cd Dockerfile-actividad
+   66  sudo docker build -t jatovarp .
+   67  ls
+   68  sudo docker build -t jatovarp .
+   69  cd ..
+   70  rm -r /jatovarp/Dockerfile-actividad
+   71  cd ..
+   72  rm -r jatovarp
+   73  ls
+   74  mkdir jatovarp
+   75  cd jatovarp
+   76  git clone https://github.com/JATP9/Dockerfile-actividad.git
+   77  cd Dockerfile-actividad
+   78  docker build -t jatovarp .
+   79  sudo docker build -t jatovarp .
+   80  sudo docker run jatovarp
+   81  sudo docker build -t jatovarp .
+   82  cd ..
+   83  rm -r jatovarp
+   84  mkdir jatovarp
+   85  cd jatovarp
+   86  git clone https://github.com/JATP9/Dockerfile-actividad.git
+   87  cd Dockerfile-actividad
+   88  sudo docker build -t jatovarp .
+   89  cd ..
+   90  rm -r jatovarp
+   91  mkdir jatovarp
+   92  cd jatovarp
+   93  git clone https://github.com/JATP9/Dockerfile-actividad.git
+   94  cd Dockerfile-actividad
+   95  docker build -t jatovarp .
+   96  sudo docker build -t jatovarp .
+   97  sudo docker run jatovarp
+   98  mkdir jdbejaranov
+   99  ls
+  100  cd
+  101  cd jdbejaranov/
+  102  ls
+  103  nano perro.txt+
+  104  ls
+  105  nano sileesestoeresgay.txt
+  106  ls
+  107  git clone https://github.com/jaisondbv/Despliegue-de-docker---Big-data
+  108  ls
+  109  cd Despliegue-de-docker---Big-data
+  110  ls
+  111  docker build
+  112  docker build -i jdbejaranov
+  113  docker build -it jdbejaranov
+  114  ls
+  115  docker build -it jdbejaranov Dockerfile
+  116  cd
+  117  ls
+  118  cd jdbejaranov/
+  119  ls
+  120  rm sileesestoeresgay.txt
+  121  ls
+  122  cd Despliegue-de-docker---Big-data/
+  123  ls
+  124  docker build -it jdbejaranov
+  125  ls
+  126  docker build -it jdbejaranov .
+  127  docker build -t jdbejaranov .
+  128  sudo docker build -t jdbejaranov .
+  129  sudo docker run jdbejaranov
+  130  ls
+  131  sudo docker run jdbejaranov
+  132  ls
+  133  ano etlejemplo.py
+  134  nano etlejemplo.py
+  135  sudo docker run jdbejaranov
+  136  sudo docker run jdbejaranov2
+  137  sudo docker run jdbejaranov
+  138  ls
+  139  cd
+  140  ls
+  141  cd jdbejaranov/
+  142  ls
+  143  cd Despliegue-de-docker---Big-data/
+  144  ls
+  145  sudo docker run jdbejaranov
+  146  ls
+  147  nano etlejemplo.py
+  148  sudo docker run jdbejaranov
+  149  ls
+  150  nano Dockerfile
+  151  sudo docker run jdbejaranov
+  152  ls
+  153  nano etlejemplo.py
+  154  sudo docker run -v $(pwd):/app minombre
+  155  sudo docker run -v $(pwd):/app jdbejaranov
+  156  sudo docker run jdbejaranov
+  157  ls
+  158  history
+  159  ls
+  160  $(pwd)
+  161  pwd
+  162  ls
+  163  nano ganadores_balon_de_oro.csv
+  164  cd
+  165  ls
+  166  cd jatovarp/
+  167  ls
+  168  cd doc
+  169  cd Dockerfile-actividad/
+  170  ls
+  171  cat buenosdias.txt
+  172  vim buenosdias.txt
+  173  nano buenosdias.txt
+  174  ls
+  175  cd
+  176  ls
+  177  cd jdbejaranov/
+  178  ls
+  179  cd DES
+  180  cd Despliegue-de-docker---Big-data/
+  181  LS
+  182  CD
+  183  ls
+  184  sudo nano ganadores_balon_de_oro.csv
+  185  clear
+  186  sudo su
+  187  mkdir lnvargasg
+  188  cd clone https://github.com/LauV2611/ETLBigData.git
+  189  cd ETLBigData
+  190  sudo docker build -t lnvargasg .
+  191  sudo docker run --name contenedor_ln -d lnvargasg
+  192  nano Dockerfile
+  193  sudo docker build -t lnvargasg .
+  194  ls
+  195  nano Dockerfile
+  196  sudo docker build -t lnvargasg .
+  197  sudo docker run lnvargasg
+  198  nano Dockerfile
+  199  sudo docker build -t lnvargasg .
+  200  sudo docker run lnvargasg
+  201  nano Dockerfile
+  202  sudo docker build -t lnvargasg .
+  203  LS
+  204  ls
+  205  cat Dockerfile
+  206  git pull
+  207  rm *
+  208  git pull
+  209  ls
+  210  git fetch
+  211  ls
+  212  cd ..
+  213  sudo rm -rf ETLBigData/
+  214  git clone https://github.com/LauV2611/ETLBigData.git
+  215  cd ETLBigData/
+  216  ls
+  217  git pull
+  218  sudo docker build -t lnvargasg .
+  219  sudo docker run lnvargasg .
+  220  sudo docker run lnvargasg
+  221  git pull
+  222  sudo docker build -t lnvargasg .
+  223  sudo docker run -it lnvargasg
+  224  git pull
+  225  sudo docker build -t lnvargasg .
+  226  sudo docker run -it lnvargasg
+  227  mkdir afguayazanh
+  228  cd afguayazanh
+  229  git clone https://github.com/Andresgh12/BigDataDockerFile.git .
+  230  git clone https://github.com/Andresgh12/BigDataDockerFile.git .
+  231  ls
+  232  docker run --rm -v $(pwd)/output:/app/output mi_etl_docker
+  233  ls
+  234  sudo docker run --rm -v $(pwd)/output:/app/output mi_etl_docker
+  235  sudo dock
+  236  ls
+  237  sudo docker build -t afguayazanh .
+  238  sudo docker run afguayazanh
+  239  ls
+  240  ls output
+  241  cd mkdir_darodriguezb1
+  242  ~/Documents/mkdir darodriguiezb1
+  243  cd /Documents/mkdir darodriguiezb1
+  244  cd Documents/mkdir darodriguiezb1
+  245  mkdir dilan
+  246  mkdir darodriguezb1
+  247  cd darodriguezb1
+  248  git clone https://github.com/Dilan1225/Corte2/blob/main/migracion_package.zip.git
+  249  git clone https://github.com/Dilan1225/Corte2/tree/main/migracion_package.git
+  250  git clone https://github.com/Dilan1225/Corte2.git
+  251  cd Corte2
+  252  sudo docker build -t darodriguezb1.
+  253  sudo docker build -t darodriguezb1
+  254  sudo docker build -t darodriguezb1 .
+  255  sudo docker tun darodriguezb1
+  256  sudo docker run darodriguezb1
+  257  nano Dockerfile
+  258  ls
+  259  cat Dockerfile
+  260  git clone https://github.com/Dilan1225/Corte2.git
+  261  cd Corte2
+  262  sudo docker tun darodriguezb1
+  263  sudo docker run darodriguezb1 .
+  264  sudo docker build -t darodriguezb1 .
+  265  1
+  266  nano Dockerfile
+  267  git clone https://github.com/Dilan1225/Corte2.git
+  268  cd Corte2
+  269  sudo docker build -t darodriguezb1 .
+  270  git clone https://github.com/Dilan1225/Corte2.git
+  271  cd Corte2
+  272  sudo docker build -t darodriguezb1 .
+  273  git pull
+  274  sudo docker build -t darodriguezb1 .
+  275  git pull
+  276  sudo docker build -t darodriguezb1 .
+  277  git pull
+  278  sudo docker build -t darodriguezb1 .
+  279  git pull
+  280  sudo docker build -t darodriguezb1 .
+  281  sudo docker run darodriguezb1 .
+  282  sudo docker build -t darodriguezb1 .
+  283  sudo docker run darodriguezb1 .
+  284  sudo docker run darodriguezb1
+  285  git pull
+  286  sudo docker build -t darodriguezb1 .
+  287  sudo docker run darodriguezb1
+  288  git pull
+  289  sudo docker build -t darodriguezb1 .
+  290  sudo docker run darodriguezb1
+  291  git pull
+  292  sudo docker build -t darodriguezb1 .
+  293  sudo docker run darodriguezb1
+  294  mkdir befrancor
+  295  cd befrancor
+  296  git clone https://github.com/Brayanf22/ETL
+  297  cd ETL
+  298  sudo docker build -t befrancor .
+  299  cd dmvalderramam
+  300  mkdir dmvalderramam
+  301  cd dmvalderramam
+  302  git clone https://github.com/Dmichel26/ETL.git
+  303  cd ETL
+  304  sudo docker build -t dmvalderramam
+  305  sudo docker build -t dmvalderramam .
+  306  sudo docker run dmvalderramam
+  307  git pull
+  308  sudo docker build -t dmvalderramam .
+  309  sudo docker run dmvalderramam
+  310  git pull
+  311  sudo docker run dmvalderramam
+  312  git pull
+  313  sudo docker run dmvalderramam
+  314  git pull
+  315  sudo docker build -t dmvalderramam .
+  316  sudo docker run dmvalderramam
+  317  git pull
+  318  sudo docker build -t dmvalderramam .
+  319  sudo docker run dmvalderramam
+  320  git pull
+  321  sudo docker build -t dmvalderramam .
+  322  sudo docker run dmvalderramam
+  323  git pull
+  324  sudo docker build -t dmvalderramam .
+  325  sudo docker run dmvalderramam
+  326  git pull
+  327  sudo docker build -t dmvalderramam .
+  328  sudo docker run dmvalderramam
+  329  git pull
+  330  sudo docker build -t dmvalderramam .
+  331  sudo docker run dmvalderramam
+  332  git pull
+  333  sudo docker build -t dmvalderramam .
+  334  sudo docker run dmvalderramam
+  335  git pull
+  336  sudo docker build -t dmvalderramam .
+  337  sudo docker run dmvalderramam
+  338  ls -ltra
+  339  cd befrancor/
+  340  ls -ltra
+  341  ls -ltra *
+  342  git pull
+  343  cd ETL/
+  344  git pull
+  345  ls -ltra
+  346  cat Dockerfile
+  347  git clone https://github.com/Brayanf22/ETL.git
+  348  sudo docker build -t befrancor .
+  349  git pull
+  350  sudo docker build -t befrancor .
+  351  git pull
+  352  sudo docker build -t befrancor .
+  353  git pull
+  354  sudo docker build -t befrancor .
+  355  git pull
+  356  git pull
+  357  sudo docker build -t befrancor .
+  358  git pull
+  359  sudo docker build -t befrancor .
+  360  git pull
+  361  sudo docker build -t befrancor .
+  362  git pull
+  363  sudo docker build -t befrancor .
+  364  sudo docker run befrancor
+  365  git pull
+  366  sudo docker build -t befrancor .
+  367  sudo docker run befrancor
+  368  git pull
+  369  sudo docker build -t befrancor .
+  370  sudo docker run befrancor
+  371  git pull
+  372  sudo docker build -t befrancor .
+  373  sudo docker run befrancor
+  374  git pull
+  375  sudo docker build -t befrancor .
+  376  sudo docker run befrancor
+  377  git pull
+  378  sudo docker build -t befrancor .
+  379  git pull
+  380  sudo docker build -t befrancor .
+  381  sudo docker run befrancor
+  382  git pull
+  383  sudo docker build -t befrancor .
+  384  sudo docker run befrancor
+  385  ls
+  386  mkdir "mfmoreram@academia.usbbog.edu.co"
+  387  ls -lstr
+  388  rm "mfmoreram@academia.usbbog.edu.co"
+  389  admindocker@Dockerdeploy:~$ rm "mfmoreram@academia.usbbog.edu.co"
+  390  rm: cannot remove 'mfmoreram@academia.usbbog.edu.co': Is a directory
+  391  clear
+  392  rm -r "mfmoreram@academia.usbbog.edu.co"
+  393  ls -lstr
+  394  mkdir "mfmoreram"
+  395  ls -lstr
+  396  cd joarevalog
+  397  ls -lstr
+  398  ls
+  399  cd "joarevalog@academia.usbbog.edu.co"
+  400  ls
+  401  cd "Proyecto-ETL"
+  402  ls
+  403  cd ..
+  404  cd
+  405  celar
+  406  clear
+  407  cd "mfmoreram"
+  408  mkdir "mfmoreram@academia.usbbog.edu.co"
+  409  cd mfmoreram@academia.usbbog.edu.co/
+  410  git clone https://github.com/mfmorera/Dbigdata.git
+  411  ls
+  412  cd dbigdata
+  413  cd Dbigdata/
+  414  ls
+  415  nano Dockerfile
+  416  sudo docker build -t dbigdata-image .
+  417  ls
+  418  nano Dockerfile
+  419  sudo docker build -t dbigdata-image .
+  420  mv "Clase2BigData (1).ipynb" Clase2BigData.ipynb
+  421  nano Dockerfile
+  422  sudo docker build -t dbigdata-image .
+  423  sudo docker run -p 8888:8888 dbigdata-image
+  424  ls
+  425  cd
+  426  mkdir etl-dashboard-mongo && cd etl-dashboard-mongo
+  427  mkdir etl dashboard data .kaggle
+  428  touch Dockerfile docker-compose.yml requirements.txt .env
+  429  touch etl/download_data.py etl/process_data.py etl/upload_to_mongo.py
+  430  mkdir etl dashboard data .kaggle
+  431  mkdir etl-dashboard-mongo && cd etl-dashboard-mongo
+  432  mkdir etl-dashboard-mongo
+  433  cd etl-dashboard-mongomkdir etl_dashboard_mongo_v1
+  434  cd etl_dashboard_mongo_v1
+  435  pwd
+  436  mkdir etl_dashboard_mongo_v1
+  437  cd etl_dashboard_mongo_v1
+  438  mkdir etl_v1 dashboard_v1 data_v1 .kaggle_v1
+  439  touch Dockerfile docker-compose.yml requirements.txt .env
+  440  touch etl_v1/download_data.py etl_v1/process_data.py etl_v1/upload_to_mongo.py
+  441  ls
+  442  mkdir Jaison_etl_dashboard_mongo
+  443  cd Jaison_etl_dashboard_mongo/
+  444  git clone https://github.com/jaisondbv/EjercicioKaggle.git
+  445  ls}
+  446  ls
+  447  cd EjercicioKaggle/
+  448  ls
+  449  rm 'Nuevo Hoja de cálculo de Microsoft Excel.xlsx'
+  450  ls
+  451  docker build -t mi_etl_app .
+  452  sudo docker build -t mi_etl_app .
+  453  ls
+  454  mv DockerFile Dockerfile
+  455  ls
+  456  sudo docker build -t mi_etl_app .
+  457  nano Dockerfile
+  458  sudo docker build -t mi_etl_app .
+  459  nano Dockerfile
+  460  sudo docker build -t mi_etl_app .
+  461  nano Dockerfile
+  462  sudo docker build -t mi_etl_app .
+  463  nano Dockerfile
+  464  sudo docker build -t mi_etl_app .
+  465  nano Dockerfile
+  466  sudo docker build -t mi_etl_app .
+  467  docker compose build
+  468  docker ps
+  469  sudodocker ps
+  470  sudo docker ps
+  471  docker run --rm etl_app
+  472  sudo docker run --rm etl_app
+  473  sudo docker build -t mi_etl_app .
+  474  docker run etl_app
+  475  sudo docker run etl_app
+  476  docker images
+  477  sudo docker images
+  478  docker build -t etl_app
+  479  docker build -t etl_app .
+  480  sudo docker build -t etl_app .
+  481  sudo docker run etl_app
+  482  ls
+  483  nano kaggle.py
+  484  sudo docker run etl_app
+  485  sudo docker build -t etl_app .
+  486  sudo docker run etl_app
+  487  ls
+  488  nano kaggle.py
+  489  sudo docker build -t etl_app .
+  490  sudo docker run etl_app
+  491  RUN pip install pymongo[srv] pandas
+  492  ping google.com
+  493  nano kaggle.py
+  494  sudo docker build -t etl_app .
+  495  docker run  -e MONGO_URI="mongodb+srv://ketihe1596:V1in9OG26SRXZqCZ@cluster0.a4qkpgi.mongodb.net/" etl_app
+  496  sudo docker run  -e MONGO_URI="mongodb+srv://ketihe1596:V1in9OG26SRXZqCZ@cluster0.a4qkpgi.mongodb.net/" etl_app
+  497  python3 -c "import ssl; print(ssl.OPENSSL_VERSION)"
+  498  sudo docker run  -e MONGO_URI="mongodb+srv://ketihe1596:V1in9OG26SRXZqCZ@cluster0.a4qkpgi.mongodb.net?retryWrites=true&w=majority/" etl_app
+  499  ls
+  500  cat kaggle.py
+  501  cat Dockerfile
+  502  sudo docker run  -e MONGO_URI="mongodb+srv://ketihe1596:V1in9OG26SRXZqCZ@cluster0.a4qkpgi.mongodb.net?retryWrites=true&w=majority/" etl_app
+  503  sudo docker run  -e MONGO_URI="mongodb+srv://ketihe1596:V1in9OG26SRXZqCZ@cluster0.a4qkpgi.mongodb.net?retryWrites=true&w=majority" etl_app
+  504  cat dashboard.py
+  505  historu
+  506  history
