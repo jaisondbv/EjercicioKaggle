@@ -1,0 +1,11 @@
+# etl/Dockerfile
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY etl.py .
+COPY ../data /app/data
+
+RUN pip install pandas pymongo
+
+CMD ["python", "kaggle.py"]
